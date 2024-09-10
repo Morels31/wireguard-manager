@@ -462,8 +462,6 @@ def main():
 
     # Warn the user if the /etc/wireguard directory is not readable (needs root).
 
-    # Reading IP may be bugged if a number < 32 bit is inserted
-
     # Final touches
 
 
